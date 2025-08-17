@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|k:\\proyecto final programacacion 1\\git-github\\sistema_de_manejo_de_clientes_para_consultorio_medico\\formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|k:\\proyecto final programacacion 1\\git-github\\sistema_de_manejo_de_clientes_para_consultorio_medico\\formularios\\frmcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|k:\\proyecto final programacacion 1\\git-github\\sistema_de_manejo_de_clientes_para_consultorio_medico\\formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciodiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciodiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciopacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciopacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmdiagnosticomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\modelos\\modelopagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:modelos\\modelopagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciodiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciodiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciopacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciopacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,14 +107,6 @@
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -113,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\datos\\conexionaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:datos\\conexionaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,11 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ConexionAccess.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Datos\\ConexionAccess.cs",
               "RelativeDocumentMoniker": "Datos\\ConexionAccess.cs",
@@ -140,6 +144,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T08:31:25.922Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGestionUsuarios.cs",
+              "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmGestionUsuarios.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmGestionUsuarios.cs",
+              "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmGestionUsuarios.cs",
+              "RelativeToolTip": "Formularios\\FrmGestionUsuarios.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAEwEsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:51:35.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "FrmPagos.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPagos.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmPagos.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ServicioPago.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Servicios\\ServicioPago.cs",
               "RelativeDocumentMoniker": "Servicios\\ServicioPago.cs",
@@ -175,11 +192,12 @@
               "RelativeToolTip": "Servicios\\ServicioPago.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAuwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T04:25:45.006Z"
+              "WhenOpened": "2025-08-17T04:25:45.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "ModeloPagos.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Modelos\\ModeloPagos.cs",
               "RelativeDocumentMoniker": "Modelos\\ModeloPagos.cs",
@@ -191,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "FrmDiagnosticoMedico.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmDiagnosticoMedico.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmDiagnosticoMedico.cs",
@@ -203,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "ServicioDiagnostico.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Servicios\\ServicioDiagnostico.cs",
               "RelativeDocumentMoniker": "Servicios\\ServicioDiagnostico.cs",
@@ -211,11 +229,12 @@
               "RelativeToolTip": "Servicios\\ServicioDiagnostico.cs",
               "ViewState": "AgIAAJsAAAAAAAAAAAAgwKwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T03:35:33.036Z"
+              "WhenOpened": "2025-08-17T03:35:33.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ModeloDiagnostico.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Modelos\\ModeloDiagnostico.cs",
               "RelativeDocumentMoniker": "Modelos\\ModeloDiagnostico.cs",
@@ -227,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "FrmCitas.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmCitas.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmCitas.cs",
@@ -239,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "ServicioCitas.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Servicios\\ServicioCitas.cs",
               "RelativeDocumentMoniker": "Servicios\\ServicioCitas.cs",
@@ -251,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ModeloCita.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Modelos\\ModeloCita.cs",
               "RelativeDocumentMoniker": "Modelos\\ModeloCita.cs",
@@ -263,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "FrmMedico.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmMedico.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmMedico.cs",
@@ -275,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ServicioMedico.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Servicios\\ServicioMedico.cs",
               "RelativeDocumentMoniker": "Servicios\\ServicioMedico.cs",
@@ -287,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "ModeloMedico.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Modelos\\ModeloMedico.cs",
               "RelativeDocumentMoniker": "Modelos\\ModeloMedico.cs",
@@ -299,31 +318,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "FrmPacientes.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPacientes.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmPacientes.cs",
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPacientes.cs",
               "RelativeToolTip": "Formularios\\FrmPacientes.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAIwCoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAawEQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:53:40.724Z"
+              "WhenOpened": "2025-08-15T17:53:40.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "ServicioPacientes.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Servicios\\ServicioPacientes.cs",
               "RelativeDocumentMoniker": "Servicios\\ServicioPacientes.cs",
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Servicios\\ServicioPacientes.cs",
               "RelativeToolTip": "Servicios\\ServicioPacientes.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAgwKoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwH0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:10:56.858Z"
+              "WhenOpened": "2025-08-15T17:10:56.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ModeloPacientes.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Modelos\\ModeloPacientes.cs",
               "RelativeDocumentMoniker": "Modelos\\ModeloPacientes.cs",
@@ -335,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "FrmCentral.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmCentral.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmCentral.cs",
@@ -343,12 +364,11 @@
               "RelativeToolTip": "Formularios\\FrmCentral.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAawF4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:33:09.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T16:33:09.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmLogin.cs",
@@ -360,19 +380,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 3,
               "Title": "ServicioUsuario.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Servicios\\ServicioUsuario.cs",
               "RelativeDocumentMoniker": "Servicios\\ServicioUsuario.cs",
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Servicios\\ServicioUsuario.cs",
               "RelativeToolTip": "Servicios\\ServicioUsuario.cs",
-              "ViewState": "AgIAABcAAAAAwLi9D9n2vxkAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwFoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T15:52:00.366Z"
+              "WhenOpened": "2025-08-15T15:52:00.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Usuario.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Modelos\\Usuario.cs",
               "RelativeDocumentMoniker": "Modelos\\Usuario.cs",
@@ -380,12 +401,11 @@
               "RelativeToolTip": "Modelos\\Usuario.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T15:44:57.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T15:44:57.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "FrmMedico.cs [Dise\u00F1o]",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmMedico.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmMedico.cs",
@@ -396,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "FrmPagos.cs [Dise\u00F1o]",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPagos.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmPagos.cs",
@@ -407,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "FrmDiagnosticoMedico.cs [Dise\u00F1o]",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmDiagnosticoMedico.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmDiagnosticoMedico.cs",
@@ -418,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "FrmCitas.cs [Dise\u00F1o]",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmCitas.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmCitas.cs",
@@ -429,30 +449,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 4,
               "Title": "FrmPacientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPacientes.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmPacientes.cs",
-              "ToolTip": "K:\\Proyecto final Programacacion 1\\Getion_de_Pasientes_de_Consultorio_Medico\\Formularios\\FrmPacientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\Getion_de_Pasientes_de_Consultorio_Medico\\Formularios\\FrmPacientes.cs [Dise\u00F1o]",
+              "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPacientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FrmPacientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T13:59:12.642Z"
+              "WhenOpened": "2025-08-15T13:59:12.642Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "FrmCentral.cs [Dise\u00F1o]",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmCentral.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmCentral.cs",
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmCentral.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmCentral.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:02:13.926Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T11:02:13.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "FrmLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmLogin.cs",
@@ -463,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
