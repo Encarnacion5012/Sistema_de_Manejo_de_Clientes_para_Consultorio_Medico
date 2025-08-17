@@ -1,5 +1,6 @@
 .vs/
 bin/
+!BaseDatos/consultorio.accdb
 plaintext
 <<<<<<< HEAD
 # Versión de main
