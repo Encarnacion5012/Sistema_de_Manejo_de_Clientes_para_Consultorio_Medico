@@ -1,7 +1,7 @@
 
 
 <h1>🏥 Sistema de Gestión de Consultorio Médico</h1>
-
+<h2>Vaya a la rama desarrollo que es la funcional en esta hay problemas con los archivos</h2>
 Creado por:
 Estainlin Encarnacion 2024-0181
 UNICDA
