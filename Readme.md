@@ -37,6 +37,12 @@ El sistema integra módulos para **usuarios, pacientes, médicos, citas, diagnó
 - **UI consistente y moderna**  
   Colores semánticos para acciones, campos alineados y uso de `TableLayoutPanel` y `FlowLayoutPanel`.
 
+##Como Usar
+<p>El regitras cualquier elemto debe dejar el campo id vacio puesta que esta configurado como autonum en la base da datos, es decir ella misma genera el id colocar el campo id al registras lanzara un error</p>
+
+<p>Al Bucar poner el campo id y luego dar al boton de buscar</p>
+<p>Al querer eliminar un paciende debe ingresar el id usar el boton bucar y cuando se traigan los datos ahi precionar el boton eliminar</p>
+<p>Para editar algun registro debe traerlo primero por el boton de buscar y luego editar los campos que desee y precionar el boton editar/actuazar</p>
 ---
 
 ## 🛠️ Tecnologías y arquitectura
