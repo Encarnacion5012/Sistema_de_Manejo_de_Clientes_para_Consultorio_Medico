@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Getion_de_Pasientes_de_Consultorio_Medico.Modelos;
 using Getion_de_Pasientes_de_Consultorio_Medico.Servicios;
+using Getion_de_Pasientes_de_Consultorio_Medico.Utilidades;
 
 namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
 {
@@ -85,6 +86,12 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
             {
                 MessageBox.Show("Paciente no encontrado");
             }
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            LimpiarCampos limpiar = new LimpiarCampos();
+            limpiar.limpiarCampos(this);
         }
     }
 }

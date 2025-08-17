@@ -153,6 +153,7 @@
     <Compile Include="Servicios\ServicioPacientes.cs" />
     <Compile Include="Servicios\ServicioPago.cs" />
     <Compile Include="Servicios\ServicioUsuario.cs" />
+    <Compile Include="Utilidades\LimpiarCampos.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -217,7 +218,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Fotos\" />
-    <Folder Include="Utilidades\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

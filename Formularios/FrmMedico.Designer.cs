@@ -44,6 +44,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.txtIdMedico = new System.Windows.Forms.TextBox();
+            this.btnLimpiar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -59,6 +60,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnLimpiar);
             this.groupBox1.Controls.Add(this.btnEliminarMedico);
             this.groupBox1.Controls.Add(this.btnBuscarMedico);
             this.groupBox1.Controls.Add(this.btnGuardadMedico);
@@ -83,7 +85,7 @@
             // 
             // btnEliminarMedico
             // 
-            this.btnEliminarMedico.Location = new System.Drawing.Point(50, 254);
+            this.btnEliminarMedico.Location = new System.Drawing.Point(11, 254);
             this.btnEliminarMedico.Name = "btnEliminarMedico";
             this.btnEliminarMedico.Size = new System.Drawing.Size(75, 23);
             this.btnEliminarMedico.TabIndex = 15;
@@ -199,6 +201,16 @@
             this.txtIdMedico.Size = new System.Drawing.Size(133, 20);
             this.txtIdMedico.TabIndex = 2;
             // 
+            // btnLimpiar
+            // 
+            this.btnLimpiar.Location = new System.Drawing.Point(92, 254);
+            this.btnLimpiar.Name = "btnLimpiar";
+            this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
+            this.btnLimpiar.TabIndex = 16;
+            this.btnLimpiar.Text = "Limpiar";
+            this.btnLimpiar.UseVisualStyleBackColor = true;
+            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
+            // 
             // FrmMedico
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -231,5 +243,6 @@
         private System.Windows.Forms.Button btnEliminarMedico;
         private System.Windows.Forms.Button btnBuscarMedico;
         private System.Windows.Forms.Button btnGuardadMedico;
+        private System.Windows.Forms.Button btnLimpiar;
     }
 }
