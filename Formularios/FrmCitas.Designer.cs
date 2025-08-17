@@ -29,27 +29,29 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtIdCitas = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.cmbIdPacienteCitas = new System.Windows.Forms.ComboBox();
-            this.cmbIdMedicoCitas = new System.Windows.Forms.ComboBox();
-            this.dptFechaHoraCita = new System.Windows.Forms.DateTimePicker();
-            this.txtMotivoCitas = new System.Windows.Forms.TextBox();
-            this.btnGuardarCitas = new System.Windows.Forms.Button();
-            this.btnEditarCitas = new System.Windows.Forms.Button();
-            this.btnBuscarCitas = new System.Windows.Forms.Button();
-            this.btnEliminarCitas = new System.Windows.Forms.Button();
             this.cmbEstadoCita = new System.Windows.Forms.ComboBox();
+            this.btnEliminarCitas = new System.Windows.Forms.Button();
+            this.btnBuscarCitas = new System.Windows.Forms.Button();
+            this.btnEditarCitas = new System.Windows.Forms.Button();
+            this.btnGuardarCitas = new System.Windows.Forms.Button();
+            this.txtMotivoCitas = new System.Windows.Forms.TextBox();
+            this.dptFechaHoraCita = new System.Windows.Forms.DateTimePicker();
+            this.cmbIdMedicoCitas = new System.Windows.Forms.ComboBox();
+            this.cmbIdPacienteCitas = new System.Windows.Forms.ComboBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtIdCitas = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnLiampiar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnLiampiar);
             this.groupBox1.Controls.Add(this.cmbEstadoCita);
             this.groupBox1.Controls.Add(this.btnEliminarCitas);
             this.groupBox1.Controls.Add(this.btnBuscarCitas);
@@ -74,126 +76,13 @@
             this.groupBox1.Text = "Citas";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // label1
+            // cmbEstadoCita
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(7, 20);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(19, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Id:";
-            // 
-            // txtIdCitas
-            // 
-            this.txtIdCitas.Location = new System.Drawing.Point(32, 17);
-            this.txtIdCitas.Name = "txtIdCitas";
-            this.txtIdCitas.Size = new System.Drawing.Size(167, 20);
-            this.txtIdCitas.TabIndex = 1;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(7, 51);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(64, 13);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Id-Paciente:";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(7, 84);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(60, 13);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "Id-Medico: ";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(7, 117);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(45, 13);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "Motivo: ";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(7, 145);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(89, 13);
-            this.label5.TabIndex = 5;
-            this.label5.Text = "Estado de la cita:";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(6, 170);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(69, 13);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "Fecha_Hora:";
-            // 
-            // cmbIdPacienteCitas
-            // 
-            this.cmbIdPacienteCitas.FormattingEnabled = true;
-            this.cmbIdPacienteCitas.Location = new System.Drawing.Point(78, 51);
-            this.cmbIdPacienteCitas.Name = "cmbIdPacienteCitas";
-            this.cmbIdPacienteCitas.Size = new System.Drawing.Size(121, 21);
-            this.cmbIdPacienteCitas.TabIndex = 7;
-            // 
-            // cmbIdMedicoCitas
-            // 
-            this.cmbIdMedicoCitas.FormattingEnabled = true;
-            this.cmbIdMedicoCitas.Location = new System.Drawing.Point(73, 81);
-            this.cmbIdMedicoCitas.Name = "cmbIdMedicoCitas";
-            this.cmbIdMedicoCitas.Size = new System.Drawing.Size(126, 21);
-            this.cmbIdMedicoCitas.TabIndex = 8;
-            // 
-            // dptFechaHoraCita
-            // 
-            this.dptFechaHoraCita.Location = new System.Drawing.Point(82, 170);
-            this.dptFechaHoraCita.Name = "dptFechaHoraCita";
-            this.dptFechaHoraCita.Size = new System.Drawing.Size(117, 20);
-            this.dptFechaHoraCita.TabIndex = 9;
-            // 
-            // txtMotivoCitas
-            // 
-            this.txtMotivoCitas.Location = new System.Drawing.Point(58, 114);
-            this.txtMotivoCitas.Name = "txtMotivoCitas";
-            this.txtMotivoCitas.Size = new System.Drawing.Size(141, 20);
-            this.txtMotivoCitas.TabIndex = 10;
-            // 
-            // btnGuardarCitas
-            // 
-            this.btnGuardarCitas.Location = new System.Drawing.Point(222, 41);
-            this.btnGuardarCitas.Name = "btnGuardarCitas";
-            this.btnGuardarCitas.Size = new System.Drawing.Size(75, 23);
-            this.btnGuardarCitas.TabIndex = 12;
-            this.btnGuardarCitas.Text = "Guardar";
-            this.btnGuardarCitas.UseVisualStyleBackColor = true;
-            this.btnGuardarCitas.Click += new System.EventHandler(this.btnGuardarCitas_Click);
-            // 
-            // btnEditarCitas
-            // 
-            this.btnEditarCitas.Location = new System.Drawing.Point(222, 74);
-            this.btnEditarCitas.Name = "btnEditarCitas";
-            this.btnEditarCitas.Size = new System.Drawing.Size(75, 23);
-            this.btnEditarCitas.TabIndex = 13;
-            this.btnEditarCitas.Text = "Editar";
-            this.btnEditarCitas.UseVisualStyleBackColor = true;
-            this.btnEditarCitas.Click += new System.EventHandler(this.btnEditarCitas_Click);
-            // 
-            // btnBuscarCitas
-            // 
-            this.btnBuscarCitas.Location = new System.Drawing.Point(222, 107);
-            this.btnBuscarCitas.Name = "btnBuscarCitas";
-            this.btnBuscarCitas.Size = new System.Drawing.Size(75, 23);
-            this.btnBuscarCitas.TabIndex = 14;
-            this.btnBuscarCitas.Text = "Buscar";
-            this.btnBuscarCitas.UseVisualStyleBackColor = true;
-            this.btnBuscarCitas.Click += new System.EventHandler(this.btnBuscarCitas_Click);
+            this.cmbEstadoCita.FormattingEnabled = true;
+            this.cmbEstadoCita.Location = new System.Drawing.Point(102, 145);
+            this.cmbEstadoCita.Name = "cmbEstadoCita";
+            this.cmbEstadoCita.Size = new System.Drawing.Size(97, 21);
+            this.cmbEstadoCita.TabIndex = 16;
             // 
             // btnEliminarCitas
             // 
@@ -205,13 +94,136 @@
             this.btnEliminarCitas.UseVisualStyleBackColor = true;
             this.btnEliminarCitas.Click += new System.EventHandler(this.btnEliminarCitas_Click);
             // 
-            // cmbEstadoCita
+            // btnBuscarCitas
             // 
-            this.cmbEstadoCita.FormattingEnabled = true;
-            this.cmbEstadoCita.Location = new System.Drawing.Point(102, 145);
-            this.cmbEstadoCita.Name = "cmbEstadoCita";
-            this.cmbEstadoCita.Size = new System.Drawing.Size(97, 21);
-            this.cmbEstadoCita.TabIndex = 16;
+            this.btnBuscarCitas.Location = new System.Drawing.Point(222, 107);
+            this.btnBuscarCitas.Name = "btnBuscarCitas";
+            this.btnBuscarCitas.Size = new System.Drawing.Size(75, 23);
+            this.btnBuscarCitas.TabIndex = 14;
+            this.btnBuscarCitas.Text = "Buscar";
+            this.btnBuscarCitas.UseVisualStyleBackColor = true;
+            this.btnBuscarCitas.Click += new System.EventHandler(this.btnBuscarCitas_Click);
+            // 
+            // btnEditarCitas
+            // 
+            this.btnEditarCitas.Location = new System.Drawing.Point(222, 74);
+            this.btnEditarCitas.Name = "btnEditarCitas";
+            this.btnEditarCitas.Size = new System.Drawing.Size(75, 23);
+            this.btnEditarCitas.TabIndex = 13;
+            this.btnEditarCitas.Text = "Editar";
+            this.btnEditarCitas.UseVisualStyleBackColor = true;
+            this.btnEditarCitas.Click += new System.EventHandler(this.btnEditarCitas_Click);
+            // 
+            // btnGuardarCitas
+            // 
+            this.btnGuardarCitas.Location = new System.Drawing.Point(222, 41);
+            this.btnGuardarCitas.Name = "btnGuardarCitas";
+            this.btnGuardarCitas.Size = new System.Drawing.Size(75, 23);
+            this.btnGuardarCitas.TabIndex = 12;
+            this.btnGuardarCitas.Text = "Guardar";
+            this.btnGuardarCitas.UseVisualStyleBackColor = true;
+            this.btnGuardarCitas.Click += new System.EventHandler(this.btnGuardarCitas_Click);
+            // 
+            // txtMotivoCitas
+            // 
+            this.txtMotivoCitas.Location = new System.Drawing.Point(58, 114);
+            this.txtMotivoCitas.Name = "txtMotivoCitas";
+            this.txtMotivoCitas.Size = new System.Drawing.Size(141, 20);
+            this.txtMotivoCitas.TabIndex = 10;
+            // 
+            // dptFechaHoraCita
+            // 
+            this.dptFechaHoraCita.Location = new System.Drawing.Point(82, 170);
+            this.dptFechaHoraCita.Name = "dptFechaHoraCita";
+            this.dptFechaHoraCita.Size = new System.Drawing.Size(117, 20);
+            this.dptFechaHoraCita.TabIndex = 9;
+            // 
+            // cmbIdMedicoCitas
+            // 
+            this.cmbIdMedicoCitas.FormattingEnabled = true;
+            this.cmbIdMedicoCitas.Location = new System.Drawing.Point(73, 81);
+            this.cmbIdMedicoCitas.Name = "cmbIdMedicoCitas";
+            this.cmbIdMedicoCitas.Size = new System.Drawing.Size(126, 21);
+            this.cmbIdMedicoCitas.TabIndex = 8;
+            // 
+            // cmbIdPacienteCitas
+            // 
+            this.cmbIdPacienteCitas.FormattingEnabled = true;
+            this.cmbIdPacienteCitas.Location = new System.Drawing.Point(78, 51);
+            this.cmbIdPacienteCitas.Name = "cmbIdPacienteCitas";
+            this.cmbIdPacienteCitas.Size = new System.Drawing.Size(121, 21);
+            this.cmbIdPacienteCitas.TabIndex = 7;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(6, 170);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(69, 13);
+            this.label6.TabIndex = 6;
+            this.label6.Text = "Fecha_Hora:";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(7, 145);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(89, 13);
+            this.label5.TabIndex = 5;
+            this.label5.Text = "Estado de la cita:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(7, 117);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(45, 13);
+            this.label4.TabIndex = 4;
+            this.label4.Text = "Motivo: ";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(7, 84);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(60, 13);
+            this.label3.TabIndex = 3;
+            this.label3.Text = "Id-Medico: ";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(7, 51);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(64, 13);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Id-Paciente:";
+            // 
+            // txtIdCitas
+            // 
+            this.txtIdCitas.Location = new System.Drawing.Point(32, 17);
+            this.txtIdCitas.Name = "txtIdCitas";
+            this.txtIdCitas.Size = new System.Drawing.Size(167, 20);
+            this.txtIdCitas.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(7, 20);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(19, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Id:";
+            // 
+            // btnLiampiar
+            // 
+            this.btnLiampiar.Location = new System.Drawing.Point(222, 166);
+            this.btnLiampiar.Name = "btnLiampiar";
+            this.btnLiampiar.Size = new System.Drawing.Size(75, 23);
+            this.btnLiampiar.TabIndex = 17;
+            this.btnLiampiar.Text = "Limpiar";
+            this.btnLiampiar.UseVisualStyleBackColor = true;
+            this.btnLiampiar.Click += new System.EventHandler(this.button1_Click);
             // 
             // FrmCitas
             // 
@@ -247,5 +259,6 @@
         private System.Windows.Forms.ComboBox cmbIdMedicoCitas;
         private System.Windows.Forms.ComboBox cmbIdPacienteCitas;
         private System.Windows.Forms.ComboBox cmbEstadoCita;
+        private System.Windows.Forms.Button btnLiampiar;
     }
 }

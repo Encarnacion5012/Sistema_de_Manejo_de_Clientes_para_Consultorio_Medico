@@ -1,3 +1,17 @@
 .vs/
 bin/
+plaintext
+<<<<<<< HEAD
+# Versión de main
+...
+
 obj/
+=======
+obj/
+*.user
+*.suo
+*.db
+*.log
+>>>>>>> desarrollo
+# Versión de desarrollo
+...

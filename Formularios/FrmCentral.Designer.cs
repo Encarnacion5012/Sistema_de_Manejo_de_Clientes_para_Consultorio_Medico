@@ -139,7 +139,7 @@
             this.Controls.Add(this.BtnDiagnosticos);
             this.Controls.Add(this.btnGestinarUsuarios);
             this.Name = "FrmCentral";
-            this.Text = "FrmCentral";
+            this.Text = "Panel Central";
             this.Load += new System.EventHandler(this.FrmCentral_Load);
             this.ResumeLayout(false);
 
