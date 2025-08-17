@@ -2,6 +2,8 @@
 
 <h1>🏥 Sistema de Gestión de Consultorio Médico</h1>
 
+<h2>Rama 100% Funcional sin problemas</h2>
+
 Creado por:
 Estainlin Encarnacion 2024-0181
 UNICDA
