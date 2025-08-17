@@ -16,12 +16,12 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Servicios
             var conexionAccess = new ConexionAccess();
             using (var conexion = conexionAccess.Obtener())
             {
-                // Importante: OleDb usa el ORDEN de los ?, no los nombres
+                
                 string sql = "INSERT INTO Pagos ([Id-Paciente], Fecha_Pago, Monto, Metodo_Pago) VALUES (?, ?, ?, ?)";
 
                 using (var cmd = new OleDbCommand(sql, conexion))
                 {
-                    // El primer Add corresponde al primer ?, o sea [Id-Paciente]
+                  
                     cmd.Parameters.Add("IdPaciente", OleDbType.Integer).Value = p.idPacien;
                     cmd.Parameters.Add("FechaPago", OleDbType.Date).Value = p.FechaPago;
                     cmd.Parameters.Add("Monto", OleDbType.Currency).Value = p.Monto;

@@ -123,7 +123,7 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
             cmbIdPacienteCitas.DataSource = pacientes;
             cmbIdPacienteCitas.ValueMember = "Id";
             cmbIdPacienteCitas.DisplayMember = "NombreCompleto";
-            cmbIdPacienteCitas.SelectedIndex = -1; // Para que no salga uno seleccionado por defecto
+            cmbIdPacienteCitas.SelectedIndex = -1; 
 
             var medicos = ServicioMedico.ObtenerTodos();
             cmbIdMedicoCitas.DataSource = medicos;
@@ -144,8 +144,7 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
         }
         private void ConfigurarDiseñoCitas()
         {
-            // Recomendado: llama a este método después de InitializeComponent()
-            // this.Load += (s, e) => ConfigurarDiseñoCitas();
+            
 
             this.SuspendLayout();
 
@@ -163,7 +162,7 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
                 Padding = new Padding(12)
             };
 
-            // Layout principal: datos arriba (AutoSize), botones abajo (AutoSize)
+            // Layout principal
             var layoutMain = new TableLayoutPanel
             {
                 Dock = DockStyle.Top,

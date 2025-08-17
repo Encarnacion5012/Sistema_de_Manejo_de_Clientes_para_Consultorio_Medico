@@ -31,7 +31,7 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
                     Sintomas = txtSintomasDiagnostico.Text,
                     Diagnostico = txtDiagnosticoDiag.Text,
                     Tratamiento = txtTratamientoDiagnostico.Text,
-                    FechaCita = dptFechaConDiag.Value // DateTimePicker
+                    FechaCita = dptFechaConDiag.Value 
                 };
 
                 ServicioDiagnostico.Insertar(diagnostico);
@@ -48,9 +48,9 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
         {
             cmbIdPacienteDiagnostico.DataSource = ServicioPacientes.ObtenerTodos();
             cmbIdPacienteDiagnostico.ValueMember = "Id";
-            cmbIdPacienteDiagnostico.DisplayMember = "NombreCompleto"; // o tu campo visible
+            cmbIdPacienteDiagnostico.DisplayMember = "NombreCompleto"; 
 
-            // Médicos
+          
             cmdIdMedicoDiagnostico.DataSource = ServicioMedico.ObtenerTodos();
             cmdIdMedicoDiagnostico.ValueMember = "Id";
             cmdIdMedicoDiagnostico.DisplayMember = "Nombre";
@@ -74,7 +74,7 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
 
                 if (diag != null)
                 {
-                    // Asigno el valor al ComboBox esto hace que muestre el nombre automáticamente
+                    
                     cmbIdPacienteDiagnostico.SelectedValue = diag.idPaciente;
                     cmdIdMedicoDiagnostico.SelectedValue = diag.idMedico;
 
@@ -240,5 +240,9 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
             btn.MouseLeave += (s, e) => ((Button)s).BackColor = color;
         }
 
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -121,15 +121,14 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Servicios
 
             try
             {
-                conexionAccess.AbrirConeccin(); // mismo nombre que ya usas
+                conexionAccess.AbrirConeccin(); 
                 using (OleDbDataReader reader = comando.ExecuteReader())
                 {
                     while (reader.Read())
                     {
                         var medico = new ModeloMedico
                         {
-                            // OJO: usa "id" o "Id" según tu modelo. Aquí muestro ambas opciones:
-                            // Id = Convert.ToInt32(reader["Id"]),
+                            
                             id = Convert.ToInt32(reader["Id"]),
                             Nombre = reader["Nombre"]?.ToString(),
                             Apellido = reader["Apellido"]?.ToString(),

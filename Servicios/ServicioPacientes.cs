@@ -131,7 +131,7 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Servicios
             ConexionAccess conexionAccess = new ConexionAccess();
             OleDbConnection conexion = conexionAccess.Obtener();
 
-            // Ajusta los nombres de columnas EXACTAMENTE como están en tu tabla Paciente
+         
             string query = "SELECT Id, Nombre_Completo, Fecha_nac, Direccion, Telefono FROM Paciente";
             OleDbCommand comando = new OleDbCommand(query, conexion);
 

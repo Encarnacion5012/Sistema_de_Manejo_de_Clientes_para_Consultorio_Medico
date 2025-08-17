@@ -72,10 +72,10 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
                     Telefono = txtTelefonoPaciente.Text
                 };
 
-                // Llamamos al método actualizar
+                
                 ServicioPacientes.actualizar(paciente);
 
-                // Mensaje de confirmación
+                
                 MessageBox.Show("Paciente actualizado correctamente.");
             }
             catch (Exception ex)

@@ -18,10 +18,10 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Servicios
 
             using (var cmd = new OleDbCommand(sql, conexion))
             {
-                // El orden debe coincidir con los ? del SQL
+                
                 cmd.Parameters.Add("idPaciente", OleDbType.Integer).Value = d.idPaciente;
                 cmd.Parameters.Add("idMedico", OleDbType.Integer).Value = d.idMedico;
-                // Sintomas es Memo/Long Text en Access
+                
                 cmd.Parameters.Add("Sintomas", OleDbType.LongVarWChar).Value = d.Sintomas ?? string.Empty;
                 cmd.Parameters.Add("Diagnostico", OleDbType.VarWChar).Value = d.Diagnostico ?? string.Empty;
                 cmd.Parameters.Add("Tratamiento", OleDbType.VarWChar).Value = d.Tratamiento ?? string.Empty;
