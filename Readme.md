@@ -13,6 +13,7 @@ El sistema integra módulos para **usuarios, pacientes, médicos, citas, diagnó
 <p>Nombre: admin  Clave: 1234 Rol: admin</p>
 <p>Nombre: recepcionista1 Clave: recep1 Rol:Recepcionista</p>
 <p>Nombre: medico1 Clave: medico Rol: medico</p>
+<p>La base de datos se encuentra la ruta /bin/Debug/BaseDato/consultorio </p>
 
 ## 📌 Características principales
 

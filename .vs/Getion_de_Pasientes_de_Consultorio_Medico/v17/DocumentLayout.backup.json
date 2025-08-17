@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|k:\\proyecto final programacacion 1\\git-github\\sistema_de_manejo_de_clientes_para_consultorio_medico\\formularios\\frmpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,11 +27,11 @@
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|k:\\proyecto final programacacion 1\\git-github\\sistema_de_manejo_de_clientes_para_consultorio_medico\\formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|k:\\proyecto final programacacion 1\\git-github\\sistema_de_manejo_de_clientes_para_consultorio_medico\\formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -43,7 +43,7 @@
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmdiagnosticomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|k:\\proyecto final programacacion 1\\git-github\\sistema_de_manejo_de_clientes_para_consultorio_medico\\formularios\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\formularios\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:formularios\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -87,7 +87,7 @@
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:modelos\\modelomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|k:\\proyecto final programacacion 1\\git-github\\sistema_de_manejo_de_clientes_para_consultorio_medico\\utilidades\\limpiarcampos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\utilidades\\limpiarcampos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2820B712-D108-4B71-90F3-E7D15DD15583}|Getion_de_Pasientes_de_Consultorio_Medico.csproj|solutionrelative:utilidades\\limpiarcampos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -159,8 +159,7 @@
               "RelativeToolTip": "Formularios\\FrmCitas.cs",
               "ViewState": "AgIAAA0BAAAAAAAAAAAAAI4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T06:34:38.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T06:34:38.63Z"
             },
             {
               "$type": "Document",
@@ -172,8 +171,7 @@
               "RelativeToolTip": "Utilidades\\LimpiarCampos.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAiwAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T06:23:12.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T06:23:12.814Z"
             },
             {
               "$type": "Document",
@@ -185,8 +183,7 @@
               "RelativeToolTip": "Formularios\\FrmGestionUsuarios.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAAiwIMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T05:51:35.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T05:51:35.166Z"
             },
             {
               "$type": "Document",
@@ -197,8 +194,7 @@
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmGestionUsuarios.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmGestionUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T05:06:12.428Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-17T05:06:12.428Z"
             },
             {
               "$type": "Document",
@@ -208,7 +204,7 @@
               "RelativeDocumentMoniker": "Formularios\\FrmPagos.cs",
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPagos.cs",
               "RelativeToolTip": "Formularios\\FrmPagos.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAArwFEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAlwE4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T04:26:03.929Z",
               "EditorCaption": ""
@@ -223,8 +219,7 @@
               "RelativeToolTip": "Servicios\\ServicioPago.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAuwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T04:25:45.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T04:25:45.006Z"
             },
             {
               "$type": "Document",
@@ -248,8 +243,7 @@
               "RelativeToolTip": "Formularios\\FrmDiagnosticoMedico.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAcwDkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T03:39:10.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T03:39:10.631Z"
             },
             {
               "$type": "Document",
@@ -261,8 +255,7 @@
               "RelativeToolTip": "Servicios\\ServicioDiagnostico.cs",
               "ViewState": "AgIAAJsAAAAAAAAAAAAgwKwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T03:35:33.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T03:35:33.036Z"
             },
             {
               "$type": "Document",
@@ -286,8 +279,7 @@
               "RelativeToolTip": "Servicios\\ServicioCitas.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAowI4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T20:15:00.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T20:15:00.476Z"
             },
             {
               "$type": "Document",
@@ -311,8 +303,7 @@
               "RelativeToolTip": "Formularios\\FrmMedico.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAADgv20AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:33:53.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T19:33:53.449Z"
             },
             {
               "$type": "Document",
@@ -324,8 +315,7 @@
               "RelativeToolTip": "Servicios\\ServicioMedico.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAqwJkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:06:23.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T19:06:23.041Z"
             },
             {
               "$type": "Document",
@@ -337,8 +327,7 @@
               "RelativeToolTip": "Modelos\\ModeloMedico.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAzwA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:03:51.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T19:03:51.756Z"
             },
             {
               "$type": "Document",
@@ -350,8 +339,7 @@
               "RelativeToolTip": "Formularios\\FrmPacientes.cs",
               "ViewState": "AgIAAIYAAAAAAAAAAAA6wI4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:53:40.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T17:53:40.724Z"
             },
             {
               "$type": "Document",
@@ -363,8 +351,7 @@
               "RelativeToolTip": "Servicios\\ServicioPacientes.cs",
               "ViewState": "AgIAAH0AAAAAAAAAAAAIwG0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:10:56.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T17:10:56.858Z"
             },
             {
               "$type": "Document",
@@ -376,8 +363,7 @@
               "RelativeToolTip": "Modelos\\ModeloPacientes.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:08:20.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T17:08:20.368Z"
             },
             {
               "$type": "Document",
@@ -389,8 +375,7 @@
               "RelativeToolTip": "Formularios\\FrmCentral.cs",
               "ViewState": "AgIAAOEAAAAAAAAAAAAcwOwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:33:09.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T16:33:09.951Z"
             },
             {
               "$type": "Document",
@@ -402,8 +387,7 @@
               "RelativeToolTip": "Formularios\\FrmLogin.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:09:50.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T16:09:50.948Z"
             },
             {
               "$type": "Document",
@@ -415,8 +399,7 @@
               "RelativeToolTip": "Servicios\\ServicioUsuario.cs",
               "ViewState": "AgIAAJoAAAAAAAAAAAAuwJkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T15:52:00.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T15:52:00.366Z"
             },
             {
               "$type": "Document",
@@ -439,8 +422,7 @@
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmMedico.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmMedico.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T15:11:42.231Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T15:11:42.231Z"
             },
             {
               "$type": "Document",
@@ -451,8 +433,7 @@
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPagos.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmPagos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T15:00:30.512Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T15:00:30.512Z"
             },
             {
               "$type": "Document",
@@ -463,8 +444,7 @@
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmDiagnosticoMedico.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmDiagnosticoMedico.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:43:59.074Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T14:43:59.074Z"
             },
             {
               "$type": "Document",
@@ -475,8 +455,7 @@
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmCitas.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmCitas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:28:36.324Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T14:28:36.324Z"
             },
             {
               "$type": "Document",
@@ -487,8 +466,7 @@
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmPacientes.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmPacientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T13:59:12.642Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T13:59:12.642Z"
             },
             {
               "$type": "Document",
@@ -499,8 +477,7 @@
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmCentral.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmCentral.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:02:13.926Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T11:02:13.926Z"
             },
             {
               "$type": "Document",
@@ -511,8 +488,7 @@
               "ToolTip": "K:\\Proyecto final Programacacion 1\\git-github\\Sistema_de_Manejo_de_Clientes_para_Consultorio_Medico\\Formularios\\FrmLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\FrmLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T10:50:29.141Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-15T10:50:29.141Z"
             },
             {
               "$type": "Document",
