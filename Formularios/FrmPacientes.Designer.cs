@@ -210,6 +210,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "FrmPacientes";
             this.Text = "Pacientes";
+            this.Load += new System.EventHandler(this.FrmPacientes_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

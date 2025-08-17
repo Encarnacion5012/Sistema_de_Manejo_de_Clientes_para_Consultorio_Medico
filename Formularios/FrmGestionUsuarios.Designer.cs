@@ -189,6 +189,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "FrmGestionUsuarios";
             this.Text = "Gestion de Usuarios";
+            this.Load += new System.EventHandler(this.FrmGestionUsuarios_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
