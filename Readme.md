@@ -9,6 +9,11 @@ UNICDA
 Aplicación de escritorio en **C# (.NET Windows Forms)** con **Microsoft Access** como base de datos, diseñada para administrar de forma integral un consultorio médico.  
 El sistema integra módulos para **usuarios, pacientes, médicos, citas, diagnósticos y pagos**, con un enfoque en código limpio, modularidad y facilidad de uso.
 
+Usuarios: 
+Nombre: admin  Clave: 1234 Rol: admin
+Nombre: recepcionista1 Clave: recep1 Rol:Recepcionista
+Nombre: medico1 Clave: medico Rol: medico
+
 ## 📌 Características principales
 
 - **Gestión de Usuarios**  
