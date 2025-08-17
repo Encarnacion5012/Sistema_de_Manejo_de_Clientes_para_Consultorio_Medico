@@ -1,8 +1,9 @@
-Aplicación de escritorio en **C# (.NET Windows Forms)** con **Microsoft Access** como base de datos, diseñada para administrar de forma integral un consultorio médico.  
-El sistema integra módulos para **usuarios, pacientes, médicos, citas, diagnósticos y pagos**, con un enfoque en código limpio, modularidad y facilidad de uso.
+
 
 <h1>🏥 Sistema de Gestión de Consultorio Médico</h1>
 ---
+Aplicación de escritorio en **C# (.NET Windows Forms)** con **Microsoft Access** como base de datos, diseñada para administrar de forma integral un consultorio médico.  
+El sistema integra módulos para **usuarios, pacientes, médicos, citas, diagnósticos y pagos**, con un enfoque en código limpio, modularidad y facilidad de uso.
 
 ## 📌 Características principales
 
