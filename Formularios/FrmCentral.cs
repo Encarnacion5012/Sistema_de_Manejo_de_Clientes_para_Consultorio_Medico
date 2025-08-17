@@ -91,7 +91,8 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            FrmGestionUsuarios form = new FrmGestionUsuarios();
+            form.Show();
         }
 
         private void btnPacientes_Click(object sender, EventArgs e)
