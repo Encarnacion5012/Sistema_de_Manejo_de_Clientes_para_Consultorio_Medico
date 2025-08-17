@@ -32,26 +32,52 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ModeloMedico medico = new ModeloMedico
+            if (txtNombreMedico.Text == null)
             {
-                Nombre = txtNombreMedico.Text,
-                Apellido = txtApellidoMedico.Text,
-                Especialidad = txtEspecialidadMedico.Text,
-                Telefono = txtTelefonoMedico.Text,
-                Email = txtEmailMedico.Text
-            };
+                MessageBox.Show("El nombre es obligatorio");
+            }
+            try
+            {
+                ModeloMedico medico = new ModeloMedico
+                {
+                    Nombre = txtNombreMedico.Text,
+                    Apellido = txtApellidoMedico.Text,
+                    Especialidad = txtEspecialidadMedico.Text,
+                    Telefono = txtTelefonoMedico.Text,
+                    Email = txtEmailMedico.Text
+                };
                 ServicioMedico.Insertar(medico);
+            }
+            catch (Exception ex) {
+                MessageBox.Show("Error al registar Medico: " + ex);
+            }
         }
+            
 
         private void btnEliminarMedico_Click(object sender, EventArgs e)
         {
-            
+            if (txtIdMedico.Text == null)
+            {
+                MessageBox.Show("El Id es obligatorio");
+            }
+            try
+            {
+
                 int id = int.Parse(txtIdMedico.Text);
                 ServicioMedico.Eliminar(id);
+            }
+            catch (Exception ex) {
+                MessageBox.Show("Error al eliminar Medico: " + ex);
+            }
             }
 
         private void btnBuscarMedico_Click(object sender, EventArgs e)
         {
+            if (txtIdMedico.Text == null)
+            {
+                 MessageBox.Show("El Id es obligatorio");
+            }
+            try { 
             int id = int.Parse(txtIdMedico.Text);
             ModeloMedico medico = ServicioMedico.BuscarPorId(id);
 
@@ -67,12 +93,21 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
             {
                 MessageBox.Show("Médico no encontrado");
             }
+            }
+            catch (Exception ex) {
+                MessageBox.Show("Error al eliminar Cliente: " + ex);
+            }
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             LimpiarCampos limpiar = new LimpiarCampos();
             limpiar.limpiarCampos(this);
+        }
+
+        private void FrmMedico_Load(object sender, EventArgs e)
+        {
+
         }
     }
     }

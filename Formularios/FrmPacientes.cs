@@ -27,64 +27,108 @@ namespace Getion_de_Pasientes_de_Consultorio_Medico.Formularios
 
         private void btnGuardarPaciente_Click(object sender, EventArgs e)
         {
+
             if (string.IsNullOrWhiteSpace(txtNombreCompletoPaciente.Text))
             {
                 MessageBox.Show("El nombre es obligatorio.");
                 return;
             }
 
-            var paciente = new ModeloPacientes
+            try
             {
-                NombreCompleto = txtNombreCompletoPaciente.Text.Trim(),
-                Fecha_Nac = dtpFechaNacPaciente.Value,
-                Direccion = txtDireccionPaciente.Text.Trim(),
-                Telefono = txtTelefonoPaciente.Text.Trim()
-            };
 
-            ServicioPacientes.Insertar(paciente);
+                var paciente = new ModeloPacientes
+                {
+                    NombreCompleto = txtNombreCompletoPaciente.Text.Trim(),
+                    Fecha_Nac = dtpFechaNacPaciente.Value,
+                    Direccion = txtDireccionPaciente.Text.Trim(),
+                    Telefono = txtTelefonoPaciente.Text.Trim()
+                };
+
+                ServicioPacientes.Insertar(paciente);
+            }
+            catch (Exception ex) {
+                MessageBox.Show("Errror al registrar paciente: " + ex);
+            }
 
 
         }
 
         private void btnEditarPaciente_Click(object sender, EventArgs e)
         {
-            ModeloPacientes paciente = new ModeloPacientes
+            if (TxtIdPaciente.Text == null)
             {
-                Id = int.Parse(TxtIdPaciente.Text),
-                NombreCompleto = txtNombreCompletoPaciente.Text,
-                Fecha_Nac = dtpFechaNacPaciente.Value,
-                Direccion = txtDireccionPaciente.Text,
-                Telefono = txtTelefonoPaciente.Text
-            };
+              MessageBox.Show("El di es oblicatorio");
+                
+            }
+            try
+            {
+                ModeloPacientes paciente = new ModeloPacientes
+                {
+                    Id = int.Parse(TxtIdPaciente.Text),
+                    NombreCompleto = txtNombreCompletoPaciente.Text,
+                    Fecha_Nac = dtpFechaNacPaciente.Value,
+                    Direccion = txtDireccionPaciente.Text,
+                    Telefono = txtTelefonoPaciente.Text
+                };
 
-            // Llamamos al método actualizar
-            ServicioPacientes.actualizar(paciente);
+                // Llamamos al método actualizar
+                ServicioPacientes.actualizar(paciente);
 
-            // Mensaje de confirmación
-            MessageBox.Show("Paciente actualizado correctamente.");
+                // Mensaje de confirmación
+                MessageBox.Show("Paciente actualizado correctamente.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Errror al Editar paciente: " + ex);
+            }
         }
 
         private void btnEliminarPaciente_Click(object sender, EventArgs e)
         {
-            int id = int.Parse(TxtIdPaciente.Text);
-            ServicioPacientes.Eliminar(id);
+            if (TxtIdPaciente.Text == null)
+            {
+                MessageBox.Show("El di es oblicatorio");
+            }
+            try
+            {
+                int id = int.Parse(TxtIdPaciente.Text);
+                ServicioPacientes.Eliminar(id);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Errror al Editar paciente: " + ex);
+            }
+
         }
 
         private void btnBuscarPaciente_Click(object sender, EventArgs e)
         {
-            int id = int.Parse(TxtIdPaciente.Text);
-            ModeloPacientes paciente = ServicioPacientes.BuscarPorId(id);
-
-            if (paciente != null)
+            if (TxtIdPaciente.Text == null)
             {
-                txtNombreCompletoPaciente.Text = paciente.NombreCompleto;
-                dtpFechaNacPaciente.Value = paciente.Fecha_Nac;
-                txtDireccionPaciente.Text = paciente.Direccion;
-                txtTelefonoPaciente.Text = paciente.Telefono;
+                MessageBox.Show("El di es oblicatorio");
             }
-            else
+            try
             {
-                MessageBox.Show("Paciente no encontrado");
+                int id = int.Parse(TxtIdPaciente.Text);
+                ModeloPacientes paciente = ServicioPacientes.BuscarPorId(id);
+
+                if (paciente != null)
+                {
+                    txtNombreCompletoPaciente.Text = paciente.NombreCompleto;
+                    dtpFechaNacPaciente.Value = paciente.Fecha_Nac;
+                    txtDireccionPaciente.Text = paciente.Direccion;
+                    txtTelefonoPaciente.Text = paciente.Telefono;
+                }
+                else
+                {
+                    MessageBox.Show("Paciente no encontrado");
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Errror al Buscar paciente: " + ex);
             }
         }
 

@@ -219,6 +219,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "FrmMedico";
             this.Text = "Medico";
+            this.Load += new System.EventHandler(this.FrmMedico_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
